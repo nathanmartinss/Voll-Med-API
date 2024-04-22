@@ -14,4 +14,4 @@ Para ser feito um sistema para uma clinica para cadastro de paciente e médico e
 - JWT Token
 - Java
 
-# 2024 - Todos os direitos reservados.
+# 2024 © Todos os direitos reservados pelo autor.
